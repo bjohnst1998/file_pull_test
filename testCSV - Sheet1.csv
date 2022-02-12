@@ -1,5 +1,5 @@
-name,genre,tier,description
-Content1,Thing1,0,That1
+name,genre,tier,description,type,stats,effect,passive,power,ultimate
+Content1,Thing1,0,That1,armor,,Armor Threshold 2+Tier,Burst Fire - Attacks gain reroll 1,Double-Tap  - Action, 1 PP - Attack with +2d6,
 Content2,Thing2,0,That2
 yugioh was dope,Thing3,0,That3
 Content4,Thing4,0,That4
